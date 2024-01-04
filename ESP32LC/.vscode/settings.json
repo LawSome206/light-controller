@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "cstdint": "cpp",
+        "ctime": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
+    }
+}

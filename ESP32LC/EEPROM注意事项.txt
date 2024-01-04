@@ -1,0 +1,7 @@
+EEPROM address 0-1279 is used for Auto Control
+EEPROM address 1280-1535 is used for PRO ESP Mode!
+EEPROM address 1536-2431 is used for Blinker Timer!
+
+#define BLINKER_EEP_SIZE                4096
+EEPROM.begin(BLINKER_EEP_SIZE);
+PLEASE AVOID USING THESE EEPROM ADDRESS!
